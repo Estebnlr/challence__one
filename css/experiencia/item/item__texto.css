@@ -1,0 +1,8 @@
+.item__texto{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: left;
+    width: 800px;
+
+}

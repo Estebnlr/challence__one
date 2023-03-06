@@ -1,0 +1,10 @@
+.item{
+    display: flex;
+    margin-left: 4rem;
+}
+
+.item img{
+    padding-right: 2rem;
+    padding-top: 6rem;
+    
+}

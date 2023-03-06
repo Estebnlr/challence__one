@@ -1,0 +1,8 @@
+.sobremi {
+    background: var(--banner);
+    align-items: center;
+    padding: 8rem;
+    height: 330px;  
+    margin-top: 4rem; 
+    margin-bottom: 4rem; 
+}

@@ -1,0 +1,6 @@
+.hobbies__lista {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 4rem;
+    margin-right: 8rem;
+}

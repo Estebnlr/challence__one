@@ -1,0 +1,7 @@
+.hobbies__titulo{
+    color: var(--titulo);
+    font-weight: 700;
+    font-size: 32px;
+    padding: 4rem;
+    text-align: center;
+}

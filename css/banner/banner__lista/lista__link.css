@@ -1,0 +1,10 @@
+.lista__link {
+    color: var(--menu-items);
+    font-size: 18px;
+    text-decoration: none;
+    margin-right: 2rem;    
+}
+
+.lista__link:hover {
+    color: var(--menu-items-2);
+}

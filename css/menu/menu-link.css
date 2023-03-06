@@ -1,0 +1,25 @@
+.menu__link {
+    color: var(--menu-items);
+    font-size: 18px;
+    margin-right: 1.25rem;
+    text-decoration: none;
+    text-align: left;
+}
+
+.menu__link--activo {
+    color: var(--menu-items);
+    font-size: 18px;
+    font-weight: 700;
+    font-weight: bold;
+    margin-right: 1.25rem;
+    text-decoration: none;
+    
+}
+
+.menu__link--activo:hover {
+    color: var(--menu-items-2);
+}
+
+.menu__link:hover {
+    color: var(--menu-items-2);
+}

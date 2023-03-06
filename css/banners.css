@@ -1,0 +1,7 @@
+.banners { 
+    align-items:center;
+    display: flex;
+    justify-content: center;
+    padding:8rem;
+    padding-bottom: 6rem; 
+}
